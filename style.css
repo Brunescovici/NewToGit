@@ -1,6 +1,15 @@
+body {
+    background-color: black;
+}
+
 main>div {
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    border: 1px solid black;
+    border: 1px solid purple;
+}
+
+main>p {
+    border: 10px solid white;
+    color: white;
 }
